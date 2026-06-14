@@ -28,6 +28,11 @@ Here's a walkthrough of Lab 2 features:
 
 ![Lab 2 Walkthrough](lab2.gif)
 
+## Lab 3
+
+Here's walkthrough of lab 3:
+![Lab 3 Walkthrough](lab3.gif)
+
 ## License
 
     Copyright 2026 Tiffany Lin
